@@ -27,7 +27,7 @@ Here are some of my highlighted projects:
 
 ## 📈 GitHub Stats
 
-![Xayxana's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Xayxana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Binh-2060&show_icons=true&theme=radical)
 
 ## 🔗 Connect with Me
 
