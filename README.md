@@ -25,10 +25,6 @@ Here are some of my highlighted projects:
 1. **[Project Name]**: Brief description of the project. [Link to project repository]
 2. **[Project Name]**: Brief description of the project. [Link to project repository]
 
-## 📈 GitHub Stats
-
-![Xayxana's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
 ## 🔗 Connect with Me
 
 - [LinkedIn](your-linkedin-url)
