@@ -16,16 +16,15 @@ I'm a passionate full-stack developer with experience in building web applicatio
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 - 🌱 Currently learning: [New Technology/Framework you're learning]
 - 💬 Ask me about: Fullstack development, web applications, backend optimizations, frontend performance
-- 📫 How to reach me: [Your email address or LinkedIn profile]
+- 📫 How to reach me: binhxayxana@gmail.com
 
 ## 🛠️ My Projects
 
 Here are some of my highlighted projects:
 
-1. **[Project Name]**: Brief description of the project. [Link to project repository]
-2. **[Project Name]**: Brief description of the project. [Link to project repository]
+1. **[Nodejs Express Typscript Starter template]**: Project that prepare for newbie or expience developers for starting develop with project which use nodejs. [https://github.com/Binh-2060/express-typescript-starter-template]
+2. **[Nuxt3 With Vuetify Material UI]**: Who want to develop frontend with Nuxt3 Vue framework. [(https://github.com/Binh-2060/nuxt3-vuetify-starter-template)]
 
 ## 🔗 Connect with Me
 
-- [LinkedIn](your-linkedin-url)
-- [Twitter](your-twitter-url)
+- [Website](https://binh.phouservice.com/)
