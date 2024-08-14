@@ -16,7 +16,7 @@ I'm a passionate full-stack developer with experience in building web applicatio
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 - 🌱 Currently learning: [New Technology/Framework you're learning]
 - 💬 Ask me about: Fullstack development, web applications, backend optimizations, frontend performance
-- 📫 How to reach me: [Your email address or LinkedIn profile]
+- 📫 How to reach me: binhxayxana@gmail.com
 
 ## 🛠️ My Projects
 
